@@ -1,7 +1,7 @@
 # Serverless Boilerplate
 
 - Write handler functions in the `functions/` directory
-- Write other cide in the `lib/` directory
+- Write other code in the `lib/` directory
 - Write tests in the `test/` directory
 
 ## Setup
