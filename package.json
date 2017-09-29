@@ -1,9 +1,4 @@
 {
-  "name": "serverless-boilerplate",
-  "version": "1.0.0",
-  "repository": "git@github.com:yosriady/serverless-boilerplate.git",
-  "author": "Yos Riady <yosriady@gmail.com>",
-  "license": "MIT",
   "scripts": {
     "test": "node_modules/.bin/jest",
     "test:coverage": "open coverage/lcov-report/index.html",
