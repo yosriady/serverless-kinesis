@@ -1,8 +1,7 @@
-# Serverless Boilerplate
+# Serverless Stream Processing
 
-- Write handler functions in the `functions/` directory
-- Write other code in the `lib/` directory
-- Write tests in the `test/` directory
+- Run `serverless invoke --function send --path event.json` to send data to the Kinesis stream
+- Each batch of N (defaults to 1) messages sent to the stream triggers the `receive` function.
 
 ## Setup
 
